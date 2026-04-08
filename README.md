@@ -10,12 +10,12 @@ I have been coding for **3 years**, and my main skills are:
 
 ## Projects 🚀
 I’m currently working on **Yenix Hub**, and it is **available now** :3
+I have a whitelist service called **[Luasync](https://discord.gg/aPnpBbntRA)**
+and It very cheap lol
 
 ## 🔐 Currently Learning
 
-I'm currently diving into **Cybersecurity** 🎓
-
-⏳ **Note:** Maybe long time - There's so much to learn in this field!
+I'm currently diving into **Cybersecurity** 🎓, Maybe long time - There's so much to learn in this field!
 
 ---
 
