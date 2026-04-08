@@ -4,11 +4,11 @@ My name is **Tee**, and I am from **Thailand** :3
 I like **coding** and listening to **J-Pop music**.  
 My favourite J-Pop artist is [Taira Aoi](https://www.instagram.com/taira_aoi) – she has a beautiful voice 🎶  
 
-### Skill 🧑‍💻
+## Skill 🧑‍💻
 I have been coding for **3 years**, and my main skills are:  
 **Lua | JavaScript | TypeScript | HTML | CSS**
 
-### Projects 🚀
+## Projects 🚀
 I’m currently working on **Yenix Hub**, and it is **available now** :3
 
 ## 🔐 Currently Learning
