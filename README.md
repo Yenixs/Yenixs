@@ -6,7 +6,7 @@ My favourite J-Pop artist is [Taira Aoi](https://www.instagram.com/taira_aoi) �
 
 ## Skill 🧑‍💻
 I have been coding for **3 years**, and my main skills are:  
-**Lua | JavaScript | TypeScript | HTML | CSS**
+**Lua • HTML • CSS • JavaScript (learning) • TypeScript (learning)**
 
 ## Projects 🚀
 I’m currently working on **Yenix Hub**, and it is **available now** :3
